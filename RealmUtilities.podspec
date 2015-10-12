@@ -13,6 +13,5 @@ Categories that work with various Realm classes to simplify working with Realm.
   s.source       = { :git => "https://github.com/Roobiq/RealmUtilities.git", :tag => "v#{s.version}"}
   s.source_files  = "*.{h,m}"
   s.requires_arc = true
-  s.dependency 'Realm', '>= 0.95'
 
 end
