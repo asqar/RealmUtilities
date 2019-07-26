@@ -123,7 +123,7 @@
 		F90B2E821DF6A1F800C88C00 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1030;
+				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "Adam Fish";
 				TargetAttributes = {
 					F90B2E8A1DF6A1F800C88C00 = {
@@ -134,11 +134,10 @@
 			};
 			buildConfigurationList = F90B2E851DF6A1F800C88C00 /* Build configuration list for PBXProject "RealmUtilities" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = en;
+			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				Base,
 			);
 			mainGroup = F90B2E811DF6A1F800C88C00;
 			productRefGroup = F90B2E8C1DF6A1F800C88C00 /* Products */;
@@ -178,7 +177,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -239,7 +237,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
