@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RealmUtilities"
-  s.version      = "0.4"
+  s.version      = "0.5"
   s.summary      = "Various utility classes/categories to simplify using Realm."
   s.description  = <<-DESC
 Categories that work with various Realm classes to simplify working with Realm.
@@ -10,7 +10,7 @@ Categories that work with various Realm classes to simplify working with Realm.
   s.author       = { "Roobiq" => "support@roobiq.com" }
   s.social_media_url   = "http://twitter.com/Roobiq"
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/Roobiq/RealmUtilities.git", :tag => "v#{s.version}"}
+  s.source       = { :git => "https://github.com/asqar/RealmUtilities.git", :tag => "v#{s.version}"}
   s.source_files  = "*.{h,m}"
   s.requires_arc = true
 
